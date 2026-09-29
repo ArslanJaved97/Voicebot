@@ -1,0 +1,7 @@
+openai-whisper 
+sounddevice 
+numpy 
+scipy 
+pyttsx3 
+ollama 
+soundfile
